@@ -1,0 +1,165 @@
+[17-Oct-2024 13:57:52 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Sour ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[17-Oct-2024 13:58:24 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[17-Oct-2024 14:00:43 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=O Liv...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[17-Oct-2024 14:00:59 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=O Liv...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[17-Oct-2024 14:01:01 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Ice 2...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[17-Oct-2024 14:03:35 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Ice 2...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[17-Oct-2024 14:04:18 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:37 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:41 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:41 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:41 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:42 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:42 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:42 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:43 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:44 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:45 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:46 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:46 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:46 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:46 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:46 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:46 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:49 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:49 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:49 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:49 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:49 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:50 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:53 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:53 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:53 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
+[19-Oct-2024 03:33:54 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: parse_str() expects exactly 2 arguments, 1 given in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php:836
+Stack trace:
+#0 /home2/minec761/public_html/canais.net/web/includes/ajax-control.php(836): parse_str('moviename=Hero ...')
+#1 {main}
+  thrown in /home2/minec761/public_html/canais.net/web/includes/ajax-control.php on line 836
